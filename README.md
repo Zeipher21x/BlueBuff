@@ -1,3 +1,6 @@
+Requirements: Python
+
+
 # BlueBuff
 Updates Linux and Shows Useful Information. (For Blue Team Purposes)
 Updates Linux And Scans For Open Ports
