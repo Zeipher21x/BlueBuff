@@ -1,6 +1,7 @@
 # BlueBuff
-Updates Linux and Shows Useful Information. (future updates will harden Linux for blue team purposes)
+Updates Linux and Shows Useful Information. (For Blue Team Purposes)
+Updates Linux And Scans For Open Ports
 
-updates linux and scans for localhost ports to see whats open for opsec 
-next version will have services listed and potentially a cross examine with exploit-db 
-Thanks for using, Means the world to me :]
+# BlueBuff 0.2
+Cleaned up Spaghetti Code
+(Next Version Will Display Service Version For Open Ports) 
